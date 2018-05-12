@@ -1,10 +1,16 @@
 _repo: The-History-of-Chemistry-Volume-1-of-2_50565
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50565-h/images/cover.jpg
 creator:
   author:
     agent_name: Thomson, Thomas
     gutenberg_agent_id: '41546'
     url: http://www.gutenberg.org/2009/agents/41546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50565#The-History-of-Chemistry-Volume-1-of-2
 gutenberg_issued: '2015-11-27'
 gutenberg_type: Text
 identifiers:
